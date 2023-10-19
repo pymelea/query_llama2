@@ -18,7 +18,7 @@ class Categorization:
         """
         Initializes the class instance with the necessary attributes.
         """
-        self.url_comp = "http://hddevp.no-ip.org:7002/v1/completions"
+        self.url_comp = ""
         # self.conversacional = get_conv_csv_file(url)
         self.conversacional = [
             "Hello, I am worried about my memory. I have noticed that sometimes I forget important things and have a hard time remembering details. Is there any exercise or technique that can help me?",
