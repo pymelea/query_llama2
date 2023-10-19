@@ -3,7 +3,7 @@ from util import get_conv_csv_file, get_query_csv_file, get_gen_csv_file
 from util import read_xlsx_file, url, url_gen, url_query
 
 
-url_comp = 'http://hddevp.no-ip.org:7002/v1/completions'
+url_comp = ''
 
 
 conversacional = [
